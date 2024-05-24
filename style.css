@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Kantenr{
+    background-color: rgb(52, 60, 86);
+    border-radius: 50px;
+    height: 610px;
+    width: 1000px;
+    margin: 80px;
+}
+.Buton{
+    border-radius: 40px;
+    gap: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100px;
+}
+.AA{
+    color: white;
+    background-color: red;
+    border-radius: 40px;
+    height: 21px;
+    width: 120px;
+    padding: 15px;
+}
+.Img{
+    display: flex;
+    gap: 150px;
+    margin: 20px;
+    padding: 0px 0px 0px 50px;
+}
+.Black{
+    color: white;
+    background-color: black;
+    text-align: center;
+    border-radius: 30px;
+    height: 21px;
+    width: 120px;
+    padding: 25px;
+    
+}
+.TEXT{
+    border-radius: 30px;
+    background-color: red;
+    width: 300px;
+    padding: 25px;
+}
+.box{
+    margin: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+.TEXT P{
+    background-color: rgb(117, 187, 12);
+    text-align: center;
+    color: black;
+}
